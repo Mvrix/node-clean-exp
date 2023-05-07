@@ -1,0 +1,29 @@
+{
+  "name": "merd-node",
+  "version": "1.0.0",
+  "description": "first exp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mvrix/node-clean-exp.git"
+  },
+  "author": "mvvrix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mvrix/node-clean-exp/issues"
+  },
+  "homepage": "https://github.com/Mvrix/node-clean-exp#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "next": "^13.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "prisma": "^4.13.0"
+  }
+}

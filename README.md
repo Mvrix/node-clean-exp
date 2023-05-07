@@ -1,2 +1,20 @@
 # node-clean-exp
 repository about some learning javascrip, node and apis rest, learning docker and prims
+
+        conditions by brunorlx
+
+projeto feito em node utilizando typescript 
+
+requisitos: 
+ docker com mysql ou postgresql pesquisar arquivos docker-compose dos dois e escolher um
+ uma api que tenha usabilidade de todos os verbos http: post,get,put,delete: mesmo que nao faça sentido na lógica exemplo um delete, 
+  é preciso mais para fins de deixar completo
+ 
+ um get individual usando queryParam ou urlParam.
+
+ um front-end que consuma a API utilizando as lógicas pensadas.
+ 
+ pode ser com framework ou sem desde que seja em JS.
+ 
+tem que ter as rotas bonitinho ebaaa :)
+
